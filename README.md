@@ -40,8 +40,14 @@ print(norm_of_matrix)
 ### 1-Norm of a Matrix
 ![OUTPUT](expi.png)
 
+
+
+
 ### 2-Norm of a Matrix
 ![OUTPUT](expii.png)
+
+
+
 
 ### Infinity Norm of a Matrix
 ![OUTPUT](expiii.png)
